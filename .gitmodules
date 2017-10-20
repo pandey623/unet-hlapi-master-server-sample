@@ -1,0 +1,3 @@
+[submodule "UnetHlapiMasterServerSample/Assets/UnetHlapiMasterServer"]
+	path = UnetHlapiMasterServerSample/Assets/UnetHlapiMasterServer
+	url = https://github.com/insthync/unet-hlapi-master-server.git
